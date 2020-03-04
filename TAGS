@@ -1,0 +1,22 @@
+
+./Setup.hs,15
+main main1,2
+
+./app/Main.hs,500
+module Main Main11,12
+data Expr Expr13,14
+data Expr x = Add Add13,14
+data Expr x = Add (Expr x) (Expr x) | Sub Sub13,14
+data Expr x = Add (Expr x) (Expr x) | Sub (Expr x) (Expr x) | Mul Mul13,14
+data Expr x = Add (Expr x) (Expr x) | Sub (Expr x) (Expr x) | Mul (Expr x) (Expr x) | Pow Pow13,14
+data Expr x = Add (Expr x) (Expr x) | Sub (Expr x) (Expr x) | Mul (Expr x) (Expr x) | Pow (Expr x) (Expr x) | Val Val13,14
+transform transform16,17
+evaluate evaluate29,30
+main main34,35
+
+./test/Spec.hs,15
+main main0,1
+
+./src/Lib.hs,42
+module LibLib0,1
+someFunc someFunc4,5
